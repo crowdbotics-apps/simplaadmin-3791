@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT simplaadmin_3791.wsgi:application
